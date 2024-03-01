@@ -52,7 +52,6 @@ button {
   padding: 2rem;
   font-size: 2rem;
   border-radius: .4rem;
-  margin-top: 2rem;
 }
 
 input {
@@ -64,6 +63,8 @@ button {
   background: var(--color-blueviolet-500);
   color: var(--color-white);
   transition: .2s;
+  
+  margin-top: 2rem;
 }
 
 button:hover {
