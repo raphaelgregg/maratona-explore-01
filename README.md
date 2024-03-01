@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="./.github/logo.svg" alt="logo nlw"/>
+  <!-- <img src="./.github/logo.svg" alt="logo nlw"/> -->
+  Jogo da adivinhação
 </h1>
 
 <p align="center">
